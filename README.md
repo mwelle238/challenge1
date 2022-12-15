@@ -24,3 +24,7 @@ N/A
 ## License
 
 Please refer to the LICENSE in the repo.
+
+## Student Notes
+
+I was unsure of what screenshots should be incuded in this README as mentioned on the acceptance criteria of the challenge.
